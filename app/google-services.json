@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "908528169441",
+    "project_id": "spandana-123",
+    "storage_bucket": "spandana-123.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908528169441:android:71cd8af0233b57f800e2a0",
+        "android_client_info": {
+          "package_name": "com.example.gramasanjeevini"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908528169441-9os2hcii62f8n677da3j0ua929rntm2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEZDuTZLFOAiu0-1MauyDyb2UQrk4cS0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908528169441-9os2hcii62f8n677da3j0ua929rntm2h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
